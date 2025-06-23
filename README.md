@@ -14,7 +14,7 @@ This project is a web-based Bible verse summarizer built with Gradio and OpenAI'
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bible-verse-summarizer.git
+git clone https://github.com/dennisbrody/bible-verse-summarizer.git
 cd bible-verse-summarizer
 ```
 
